@@ -1,0 +1,3458 @@
+[
+  {
+    "id": 0,
+    "description": "Emerald 0.23ct H VVS1 VG EX VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/a1e5f747-9fcb-4b6c-9695-25d80880ac9c.jpg",
+    "price": {
+      "usd": "$233.55",
+      "eur": "210,20€"
+    },
+    "price_per_carat": {
+      "usd": "$1,015.43",
+      "eur": "913,89€"
+    },
+    "discount": "12%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "550259409",
+      "lab": "IGI"
+    },
+    "stock_id": "QO33207517",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.23,
+      "color": "H",
+      "clarity": "VVS1",
+      "cut": "VG",
+      "polish": "EX",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.04",
+        "length": "4.19",
+        "depth": "2.00"
+      },
+      "depth_percentage": "65.8",
+      "ratio": "1.38",
+      "crown": {
+        "angle": "28.7",
+        "height": "11"
+      },
+      "pavilion": {
+        "angle": "44.1",
+        "depth": "0"
+      },
+      "girdle": "MED to STK",
+      "culet": "LONG",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 1,
+    "description": "Emerald 0.31ct I SI2 GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/50a37c85-fc9f-4e87-bb83-d242bfa890bd.jpg",
+    "price": {
+      "usd": "$233.70",
+      "eur": "210,33€"
+    },
+    "price_per_carat": {
+      "usd": "$753.87",
+      "eur": "678,48€"
+    },
+    "discount": "11%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6442627990",
+      "lab": "GIA"
+    },
+    "stock_id": "MZ21916481",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.31,
+      "color": "I",
+      "clarity": "SI2",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.2",
+        "length": "4.53",
+        "depth": "2.22"
+      },
+      "depth_percentage": "69.2",
+      "ratio": "1.42",
+      "crown": {
+        "angle": "0",
+        "height": "0"
+      },
+      "pavilion": {
+        "angle": "0",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 2,
+    "description": "Round 0.18ct D SI1 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/3b7c96b4-444e-44b7-ac20-b50b8bcc8c03.jpg",
+    "price": {
+      "usd": "$233.98",
+      "eur": "210,58€"
+    },
+    "price_per_carat": {
+      "usd": "$1,299.89",
+      "eur": "1.169,90€"
+    },
+    "discount": "10%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "7431590995",
+      "lab": "GIA"
+    },
+    "stock_id": "LG17041338",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.18,
+      "color": "D",
+      "clarity": "SI1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.690000",
+        "length": "3.660000",
+        "depth": "2.230000"
+      },
+      "depth_percentage": "60.700000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "33.500000",
+        "height": "33.500000"
+      },
+      "pavilion": {
+        "angle": "41.000000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 3,
+    "description": "Round 0.31ct K VS2 EX VG EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/51e815a2-99e2-4005-8b0e-6e6efb9eb565.jpg",
+    "price": {
+      "usd": "$234.34",
+      "eur": "210,91€"
+    },
+    "price_per_carat": {
+      "usd": "$755.94",
+      "eur": "680,34€"
+    },
+    "discount": "16%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "1425801294",
+      "lab": "GIA"
+    },
+    "stock_id": "JG55344282",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.31,
+      "color": "K",
+      "clarity": "VS2",
+      "cut": "EX",
+      "polish": "VG",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.370000",
+        "length": "4.340000",
+        "depth": "2.700000"
+      },
+      "depth_percentage": "62.000000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "34.500000",
+        "height": "34.500000"
+      },
+      "pavilion": {
+        "angle": "41.600000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 4,
+    "description": "Emerald 0.23ct E SI1 GD EX GD None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/9cb91489-aa2f-4219-a6c7-4a4a15de14ec.jpg",
+    "price": {
+      "usd": "$235.72",
+      "eur": "212,15€"
+    },
+    "price_per_carat": {
+      "usd": "$1,024.87",
+      "eur": "922,38€"
+    },
+    "discount": "1%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "7448480251",
+      "lab": "GIA"
+    },
+    "stock_id": "RD85437873",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.23,
+      "color": "E",
+      "clarity": "SI1",
+      "cut": "GD",
+      "polish": "EX",
+      "symmetry": "GD",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "2.970000",
+        "length": "4.170000",
+        "depth": "2.020000"
+      },
+      "depth_percentage": "68.000000",
+      "ratio": "1.40",
+      "crown": {
+        "angle": "0",
+        "height": "0"
+      },
+      "pavilion": {
+        "angle": "0",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 5,
+    "description": "Round 0.32ct J SI2 EX EX EX None",
+    "image": null,
+    "price": {
+      "usd": "$237.30",
+      "eur": "213,57€"
+    },
+    "price_per_carat": {
+      "usd": "$741.56",
+      "eur": "667,41€"
+    },
+    "discount": "14%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6371842159",
+      "lab": "GIA"
+    },
+    "stock_id": "AK19194535",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.32,
+      "color": "J",
+      "clarity": "SI2",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.440000",
+        "length": "4.410000",
+        "depth": "2.670000"
+      },
+      "depth_percentage": "60.300000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "32.500000",
+        "height": "32.500000"
+      },
+      "pavilion": {
+        "angle": "40.800000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 6,
+    "description": "Round 0.31ct K SI1 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/beb49ea1-a1e4-4c9e-abca-62506dc7df26.jpg",
+    "price": {
+      "usd": "$237.53",
+      "eur": "213,78€"
+    },
+    "price_per_carat": {
+      "usd": "$766.23",
+      "eur": "689,60€"
+    },
+    "discount": "13%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "5426776095",
+      "lab": "GIA"
+    },
+    "stock_id": "LS94123461",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.31,
+      "color": "K",
+      "clarity": "SI1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.350000",
+        "length": "4.340000",
+        "depth": "2.700000"
+      },
+      "depth_percentage": "62.200000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "34.500000",
+        "height": "34.500000"
+      },
+      "pavilion": {
+        "angle": "41.600000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 7,
+    "description": "Round 0.31ct K VS2 EX VG EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/7a4168db-91e6-40f8-b618-fb4aee5e1d9c.jpg",
+    "price": {
+      "usd": "$238.16",
+      "eur": "214,34€"
+    },
+    "price_per_carat": {
+      "usd": "$768.26",
+      "eur": "691,43€"
+    },
+    "discount": "15%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "1428087713",
+      "lab": "GIA"
+    },
+    "stock_id": "IE64137420",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.31,
+      "color": "K",
+      "clarity": "VS2",
+      "cut": "EX",
+      "polish": "VG",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.350000",
+        "length": "4.330000",
+        "depth": "2.680000"
+      },
+      "depth_percentage": "61.800000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "35.500000",
+        "height": "35.500000"
+      },
+      "pavilion": {
+        "angle": "41.000000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 8,
+    "description": "Round 0.3ct K VS2 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/fde8a7a0-0efb-43db-9904-765cd2628cb3.jpg",
+    "price": {
+      "usd": "$238.53",
+      "eur": "214,68€"
+    },
+    "price_per_carat": {
+      "usd": "$795.10",
+      "eur": "715,59€"
+    },
+    "discount": "14%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "2436818953",
+      "lab": "GIA"
+    },
+    "stock_id": "LX69775977",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.3,
+      "color": "K",
+      "clarity": "VS2",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.330000",
+        "length": "4.300000",
+        "depth": "2.650000"
+      },
+      "depth_percentage": "61.400000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "33.000000",
+        "height": "33.000000"
+      },
+      "pavilion": {
+        "angle": "41.600000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 9,
+    "description": "Emerald 0.25ct J VS2 GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/763a4be0-de69-47d9-b13b-a2208094698a.jpg",
+    "price": {
+      "usd": "$239.00",
+      "eur": "215,10€"
+    },
+    "price_per_carat": {
+      "usd": "$956.00",
+      "eur": "860,40€"
+    },
+    "discount": "1%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "462164745",
+      "lab": "IGI"
+    },
+    "stock_id": "ER89922970",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.25,
+      "color": "J",
+      "clarity": "VS2",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.06",
+        "length": "4.25",
+        "depth": "1.95"
+      },
+      "depth_percentage": "63.700000",
+      "ratio": "1.39",
+      "crown": {
+        "angle": "23.900000",
+        "height": "11.500000"
+      },
+      "pavilion": {
+        "angle": "40.600000",
+        "depth": "0"
+      },
+      "girdle": "MED to STK",
+      "culet": "LONG",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 10,
+    "description": "Round 0.18ct G IF EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/ea6dcc9a-03b4-41cd-a044-36a3049805ef.jpg",
+    "price": {
+      "usd": "$240.02",
+      "eur": "216,02€"
+    },
+    "price_per_carat": {
+      "usd": "$1,333.44",
+      "eur": "1.200,10€"
+    },
+    "discount": "1%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6435046397",
+      "lab": "GIA"
+    },
+    "stock_id": "GO65442543",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.18,
+      "color": "G",
+      "clarity": "IF",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.680000",
+        "length": "3.660000",
+        "depth": "2.260000"
+      },
+      "depth_percentage": "61.500000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "34.500000",
+        "height": "34.500000"
+      },
+      "pavilion": {
+        "angle": "41.400000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 11,
+    "description": "Round 0.18ct D VVS2 VG VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/9382ceb2-9f3f-49a3-895e-9284da91a44e.jpg",
+    "price": {
+      "usd": "$240.92",
+      "eur": "216,83€"
+    },
+    "price_per_carat": {
+      "usd": "$1,338.44",
+      "eur": "1.204,60€"
+    },
+    "discount": "5%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "2444984791",
+      "lab": "GIA"
+    },
+    "stock_id": "QU51457128",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.18,
+      "color": "D",
+      "clarity": "VVS2",
+      "cut": "VG",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.65",
+        "length": "3.64",
+        "depth": "2.17"
+      },
+      "depth_percentage": "59.5",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "31.5",
+        "height": "31.5"
+      },
+      "pavilion": {
+        "angle": "40.6",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 12,
+    "description": "Emerald 0.26ct G SI1 GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/5f580828-7d26-4bfd-88f2-d7fb9f2a7fd9.jpg",
+    "price": {
+      "usd": "$241.41",
+      "eur": "217,27€"
+    },
+    "price_per_carat": {
+      "usd": "$928.50",
+      "eur": "835,65€"
+    },
+    "discount": "0%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "7401270004",
+      "lab": "GIA"
+    },
+    "stock_id": "VU20336153",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.26,
+      "color": "G",
+      "clarity": "SI1",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.150000",
+        "length": "4.480000",
+        "depth": "1.940000"
+      },
+      "depth_percentage": "61.500000",
+      "ratio": "1.42",
+      "crown": {
+        "angle": "0",
+        "height": "0"
+      },
+      "pavilion": {
+        "angle": "0",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 13,
+    "description": "Round 0.19ct G VVS1 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/c95a367e-4169-44e8-94e4-67a382c2da9d.jpg",
+    "price": {
+      "usd": "$241.68",
+      "eur": "217,51€"
+    },
+    "price_per_carat": {
+      "usd": "$1,272.00",
+      "eur": "1.144,80€"
+    },
+    "discount": "2%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6425900216",
+      "lab": "GIA"
+    },
+    "stock_id": "EF93729757",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.19,
+      "color": "G",
+      "clarity": "VVS1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.690000",
+        "length": "3.680000",
+        "depth": "2.290000"
+      },
+      "depth_percentage": "61.900000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "34.500000",
+        "height": "34.500000"
+      },
+      "pavilion": {
+        "angle": "41.200000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 14,
+    "description": "Round 0.3ct I SI2 VG EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/520616b4-37cd-4121-a213-c1f864d50a8e.jpg",
+    "price": {
+      "usd": "$242.24",
+      "eur": "218,02€"
+    },
+    "price_per_carat": {
+      "usd": "$807.47",
+      "eur": "726,72€"
+    },
+    "discount": "14%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "7423676504",
+      "lab": "GIA"
+    },
+    "stock_id": "GD46262670",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.3,
+      "color": "I",
+      "clarity": "SI2",
+      "cut": "VG",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.300000",
+        "length": "4.270000",
+        "depth": "2.650000"
+      },
+      "depth_percentage": "61.800000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "36.000000",
+        "height": "36.000000"
+      },
+      "pavilion": {
+        "angle": "40.600000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 15,
+    "description": "Pear 0.24ct H IF GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/149909c5-241f-4170-b10e-c938065cd455.jpg",
+    "price": {
+      "usd": "$242.83",
+      "eur": "218,55€"
+    },
+    "price_per_carat": {
+      "usd": "$1,011.79",
+      "eur": "910,61€"
+    },
+    "discount": "12%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "361983886",
+      "lab": "IGI"
+    },
+    "stock_id": "NG83369601",
+    "parameters": {
+      "shape": "Pear",
+      "carats": 0.24,
+      "color": "H",
+      "clarity": "IF",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.61",
+        "length": "5.39",
+        "depth": "2.11"
+      },
+      "depth_percentage": "58.400000",
+      "ratio": "1.49",
+      "crown": {
+        "angle": "0",
+        "height": "12.000000"
+      },
+      "pavilion": {
+        "angle": "0",
+        "depth": "0"
+      },
+      "girdle": "MED to THK",
+      "culet": "POINTED",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 16,
+    "description": "Emerald 0.24ct H VVS2 GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/120b37fe-4d91-4c55-8b16-fbe02b01e4f2.jpg",
+    "price": {
+      "usd": "$242.83",
+      "eur": "218,55€"
+    },
+    "price_per_carat": {
+      "usd": "$1,011.79",
+      "eur": "910,61€"
+    },
+    "discount": "12%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "444089540",
+      "lab": "IGI"
+    },
+    "stock_id": "LA18067030",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.24,
+      "color": "H",
+      "clarity": "VVS2",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.04",
+        "length": "4.26",
+        "depth": "2.01"
+      },
+      "depth_percentage": "66.100000",
+      "ratio": "1.40",
+      "crown": {
+        "angle": "21.100000",
+        "height": "11.500000"
+      },
+      "pavilion": {
+        "angle": "44.200000",
+        "depth": "0"
+      },
+      "girdle": "MED",
+      "culet": "LONG",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 17,
+    "description": "Pear 0.23ct H VS1 VG EX VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/c6c56dc5-645d-4524-a34a-afd8044d1e42.jpg",
+    "price": {
+      "usd": "$243.34",
+      "eur": "219,01€"
+    },
+    "price_per_carat": {
+      "usd": "$1,058.00",
+      "eur": "952,20€"
+    },
+    "discount": "5%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "550259380",
+      "lab": "IGI"
+    },
+    "stock_id": "DW38639350",
+    "parameters": {
+      "shape": "Pear",
+      "carats": 0.23,
+      "color": "H",
+      "clarity": "VS1",
+      "cut": "VG",
+      "polish": "EX",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.31",
+        "length": "5.38",
+        "depth": "2.19"
+      },
+      "depth_percentage": "66.2",
+      "ratio": "1.63",
+      "crown": {
+        "angle": "40.1",
+        "height": "17"
+      },
+      "pavilion": {
+        "angle": "42.6",
+        "depth": "0"
+      },
+      "girdle": "THN to MED",
+      "culet": "POINTED",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 18,
+    "description": "Round 0.31ct J SI1 VG EX VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/15f9c16a-33e5-40af-bffd-237442ef21b2.jpg",
+    "price": {
+      "usd": "$243.90",
+      "eur": "219,51€"
+    },
+    "price_per_carat": {
+      "usd": "$786.77",
+      "eur": "708,10€"
+    },
+    "discount": "16%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6402186931",
+      "lab": "GIA"
+    },
+    "stock_id": "EH50868677",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.31,
+      "color": "J",
+      "clarity": "SI1",
+      "cut": "VG",
+      "polish": "EX",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.440000",
+        "length": "4.420000",
+        "depth": "2.590000"
+      },
+      "depth_percentage": "58.500000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "31.500000",
+        "height": "31.500000"
+      },
+      "pavilion": {
+        "angle": "40.400000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 19,
+    "description": "Emerald 0.26ct J VVS1 VG EX VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/b6f846d7-497e-4e70-8b77-30107aba9237.jpg",
+    "price": {
+      "usd": "$244.12",
+      "eur": "219,71€"
+    },
+    "price_per_carat": {
+      "usd": "$938.92",
+      "eur": "845,03€"
+    },
+    "discount": "8%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "480143303",
+      "lab": "IGI"
+    },
+    "stock_id": "JH90215408",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.26,
+      "color": "J",
+      "clarity": "VVS1",
+      "cut": "VG",
+      "polish": "EX",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.05",
+        "length": "4.25",
+        "depth": "2.10"
+      },
+      "depth_percentage": "68.9",
+      "ratio": "1.39",
+      "crown": {
+        "angle": "35.5",
+        "height": "14.5"
+      },
+      "pavilion": {
+        "angle": "40.8",
+        "depth": "0"
+      },
+      "girdle": "MED to STK",
+      "culet": "LONG",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 20,
+    "description": "Round 0.2ct I IF EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/ef9adb9c-5995-48aa-b6e6-80a9c6fae9a2.jpg",
+    "price": {
+      "usd": "$245.86",
+      "eur": "221,27€"
+    },
+    "price_per_carat": {
+      "usd": "$1,229.30",
+      "eur": "1.106,37€"
+    },
+    "discount": "4%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "1433591801",
+      "lab": "GIA"
+    },
+    "stock_id": "KX64724334",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.2,
+      "color": "I",
+      "clarity": "IF",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.850000",
+        "length": "3.830000",
+        "depth": "2.270000"
+      },
+      "depth_percentage": "59.200000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "32.500000",
+        "height": "32.500000"
+      },
+      "pavilion": {
+        "angle": "40.800000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 21,
+    "description": "Round 0.19ct D SI1 EX EX EX None",
+    "image": null,
+    "price": {
+      "usd": "$245.87",
+      "eur": "221,28€"
+    },
+    "price_per_carat": {
+      "usd": "$1,294.05",
+      "eur": "1.164,65€"
+    },
+    "discount": "9%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "2404246270",
+      "lab": "GIA"
+    },
+    "stock_id": "WZ63219878",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.19,
+      "color": "D",
+      "clarity": "SI1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.700000",
+        "length": "3.680000",
+        "depth": "2.270000"
+      },
+      "depth_percentage": "61.500000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "35.000000",
+        "height": "35.000000"
+      },
+      "pavilion": {
+        "angle": "40.800000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 22,
+    "description": "Round 0.19ct D SI1 EX EX EX None",
+    "image": null,
+    "price": {
+      "usd": "$245.87",
+      "eur": "221,28€"
+    },
+    "price_per_carat": {
+      "usd": "$1,294.05",
+      "eur": "1.164,65€"
+    },
+    "discount": "9%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "2394481826",
+      "lab": "GIA"
+    },
+    "stock_id": "SN34821098",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.19,
+      "color": "D",
+      "clarity": "SI1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.770000",
+        "length": "3.760000",
+        "depth": "2.280000"
+      },
+      "depth_percentage": "60.500000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "33.000000",
+        "height": "33.000000"
+      },
+      "pavilion": {
+        "angle": "41.200000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 23,
+    "description": "Emerald 0.3ct I VS2 GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/e0f99893-b054-4aa6-891c-11fa625d8bcb.jpg",
+    "price": {
+      "usd": "$245.94",
+      "eur": "221,35€"
+    },
+    "price_per_carat": {
+      "usd": "$819.80",
+      "eur": "737,82€"
+    },
+    "discount": "13%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "480143286",
+      "lab": "IGI"
+    },
+    "stock_id": "ZF18150411",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.3,
+      "color": "I",
+      "clarity": "VS2",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.13",
+        "length": "4.48",
+        "depth": "2.21"
+      },
+      "depth_percentage": "70.6",
+      "ratio": "1.43",
+      "crown": {
+        "angle": "34.7",
+        "height": "13"
+      },
+      "pavilion": {
+        "angle": "44.1",
+        "depth": "0"
+      },
+      "girdle": "MED to STK",
+      "culet": "LONG",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 24,
+    "description": "Round 0.19ct G VVS1 EX EX VG None",
+    "image": null,
+    "price": {
+      "usd": "$223.22",
+      "eur": "200,90€"
+    },
+    "price_per_carat": {
+      "usd": "$1,174.84",
+      "eur": "1.057,36€"
+    },
+    "discount": "6%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "2384466701",
+      "lab": "GIA"
+    },
+    "stock_id": "AO54868270",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.19,
+      "color": "G",
+      "clarity": "VVS1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.750000",
+        "length": "3.740000",
+        "depth": "2.270000"
+      },
+      "depth_percentage": "60.700000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "33.000000",
+        "height": "33.000000"
+      },
+      "pavilion": {
+        "angle": "41.000000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 25,
+    "description": "Round 0.3ct I SI2 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/843f1cf0-e25e-4f2a-8fcb-1707037d9310.jpg",
+    "price": {
+      "usd": "$223.72",
+      "eur": "201,35€"
+    },
+    "price_per_carat": {
+      "usd": "$745.73",
+      "eur": "671,16€"
+    },
+    "discount": "17%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6322590324",
+      "lab": "GIA"
+    },
+    "stock_id": "MA97767907",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.3,
+      "color": "I",
+      "clarity": "SI2",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.310000",
+        "length": "4.290000",
+        "depth": "2.680000"
+      },
+      "depth_percentage": "62.200000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "35.000000",
+        "height": "35.000000"
+      },
+      "pavilion": {
+        "angle": "41.600000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 26,
+    "description": "Pear 0.32ct I SI2 GD EX VG None",
+    "image": null,
+    "price": {
+      "usd": "$224.13",
+      "eur": "201,72€"
+    },
+    "price_per_carat": {
+      "usd": "$700.41",
+      "eur": "630,37€"
+    },
+    "discount": "13%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "1425799088",
+      "lab": "GIA"
+    },
+    "stock_id": "QT50777815",
+    "parameters": {
+      "shape": "Pear",
+      "carats": 0.32,
+      "color": "I",
+      "clarity": "SI2",
+      "cut": "GD",
+      "polish": "EX",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.92",
+        "length": "6.15",
+        "depth": "2.32"
+      },
+      "depth_percentage": "59.2",
+      "ratio": "1.57",
+      "crown": {
+        "angle": "0",
+        "height": "0"
+      },
+      "pavilion": {
+        "angle": "0",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 27,
+    "description": "Round 0.19ct H VS1 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/0325eaeb-aa8b-4379-8133-9f8111c1a29d.jpg",
+    "price": {
+      "usd": "$225.03",
+      "eur": "202,53€"
+    },
+    "price_per_carat": {
+      "usd": "$1,184.37",
+      "eur": "1.065,93€"
+    },
+    "discount": "2%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "5433603023",
+      "lab": "GIA"
+    },
+    "stock_id": "FX39303740",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.19,
+      "color": "H",
+      "clarity": "VS1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.660000",
+        "length": "3.630000",
+        "depth": "2.290000"
+      },
+      "depth_percentage": "62.700000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "35.500000",
+        "height": "35.500000"
+      },
+      "pavilion": {
+        "angle": "41.000000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 28,
+    "description": "Round 0.18ct I VVS2 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/574f0c5f-d279-45c7-9d4c-9f6f1e5f23c9.jpg",
+    "price": {
+      "usd": "$225.35",
+      "eur": "202,81€"
+    },
+    "price_per_carat": {
+      "usd": "$1,251.94",
+      "eur": "1.126,75€"
+    },
+    "discount": "5%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "7426567340",
+      "lab": "GIA"
+    },
+    "stock_id": "ZK87513047",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.18,
+      "color": "I",
+      "clarity": "VVS2",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.690000",
+        "length": "3.670000",
+        "depth": "2.220000"
+      },
+      "depth_percentage": "60.400000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "34.000000",
+        "height": "34.000000"
+      },
+      "pavilion": {
+        "angle": "40.600000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 29,
+    "description": "Round 0.19ct I VVS1 EX EX EX None",
+    "image": null,
+    "price": {
+      "usd": "$225.81",
+      "eur": "203,23€"
+    },
+    "price_per_carat": {
+      "usd": "$1,188.47",
+      "eur": "1.069,63€"
+    },
+    "discount": "3%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6382714623",
+      "lab": "GIA"
+    },
+    "stock_id": "HG54340976",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.19,
+      "color": "I",
+      "clarity": "VVS1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.770000",
+        "length": "3.760000",
+        "depth": "2.240000"
+      },
+      "depth_percentage": "59.500000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "33.000000",
+        "height": "33.000000"
+      },
+      "pavilion": {
+        "angle": "40.800000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 30,
+    "description": "Round 0.19ct H VVS2 VG VG GD None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/e7452128-7f46-4a37-a7c3-43539a4d3975.jpg",
+    "price": {
+      "usd": "$225.85",
+      "eur": "203,26€"
+    },
+    "price_per_carat": {
+      "usd": "$1,188.68",
+      "eur": "1.069,82€"
+    },
+    "discount": "5%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "2427235379",
+      "lab": "GIA"
+    },
+    "stock_id": "ZH88948111",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.19,
+      "color": "H",
+      "clarity": "VVS2",
+      "cut": "VG",
+      "polish": "VG",
+      "symmetry": "GD",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.790000",
+        "length": "3.770000",
+        "depth": "2.230000"
+      },
+      "depth_percentage": "59.100000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "32.500000",
+        "height": "32.500000"
+      },
+      "pavilion": {
+        "angle": "40.800000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 31,
+    "description": "Princess 0.23ct I VVS2 GD VG VG None",
+    "image": null,
+    "price": {
+      "usd": "$226.64",
+      "eur": "203,98€"
+    },
+    "price_per_carat": {
+      "usd": "$985.39",
+      "eur": "886,85€"
+    },
+    "discount": "7%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "480143460",
+      "lab": "IGI"
+    },
+    "stock_id": "FD52069362",
+    "parameters": {
+      "shape": "Princess",
+      "carats": 0.23,
+      "color": "I",
+      "clarity": "VVS2",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.40",
+        "length": "3.54",
+        "depth": "2.35"
+      },
+      "depth_percentage": "69.100000",
+      "ratio": "1.04",
+      "crown": {
+        "angle": "32.400000",
+        "height": "8.000000"
+      },
+      "pavilion": {
+        "angle": "38.500000",
+        "depth": "0"
+      },
+      "girdle": "THN to STK",
+      "culet": "POINTED",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 32,
+    "description": "Round 0.3ct J SI2 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/caaebe2b-ae46-4946-ba17-e7e59db69493.jpg",
+    "price": {
+      "usd": "$227.11",
+      "eur": "204,40€"
+    },
+    "price_per_carat": {
+      "usd": "$757.03",
+      "eur": "681,33€"
+    },
+    "discount": "14%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "5403940853",
+      "lab": "GIA"
+    },
+    "stock_id": "RP10622217",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.3,
+      "color": "J",
+      "clarity": "SI2",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.280000",
+        "length": "4.240000",
+        "depth": "2.660000"
+      },
+      "depth_percentage": "62.300000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "35.500000",
+        "height": "35.500000"
+      },
+      "pavilion": {
+        "angle": "41.200000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 33,
+    "description": "Emerald 0.3ct H SI2 GD EX VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/d261610b-6924-48c0-bd28-ca0a1fccf36f.jpg",
+    "price": {
+      "usd": "$227.11",
+      "eur": "204,40€"
+    },
+    "price_per_carat": {
+      "usd": "$757.03",
+      "eur": "681,33€"
+    },
+    "discount": "14%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "2456621206",
+      "lab": "GIA"
+    },
+    "stock_id": "PQ86441038",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.3,
+      "color": "H",
+      "clarity": "SI2",
+      "cut": "GD",
+      "polish": "EX",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.27",
+        "length": "4.65",
+        "depth": "2.12"
+      },
+      "depth_percentage": "64.9",
+      "ratio": "1.42",
+      "crown": {
+        "angle": "0",
+        "height": "0"
+      },
+      "pavilion": {
+        "angle": "0",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 34,
+    "description": "Round 0.18ct H VVS1 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/f997336f-ef5a-4684-8b9a-ef5594604be7.jpg",
+    "price": {
+      "usd": "$227.52",
+      "eur": "204,77€"
+    },
+    "price_per_carat": {
+      "usd": "$1,264.00",
+      "eur": "1.137,60€"
+    },
+    "discount": "3%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "7442631087",
+      "lab": "GIA"
+    },
+    "stock_id": "QS77059004",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.18,
+      "color": "H",
+      "clarity": "VVS1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.7",
+        "length": "3.69",
+        "depth": "2.17"
+      },
+      "depth_percentage": "58.8",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "32.5",
+        "height": "32.5"
+      },
+      "pavilion": {
+        "angle": "40.8",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 35,
+    "description": "Round 0.19ct I VVS1 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/a8aad362-c0e8-4f0b-91e0-4d0b231f9ac1.jpg",
+    "price": {
+      "usd": "$228.00",
+      "eur": "205,20€"
+    },
+    "price_per_carat": {
+      "usd": "$1,200.00",
+      "eur": "1.080,00€"
+    },
+    "discount": "3%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6442611869",
+      "lab": "GIA"
+    },
+    "stock_id": "WH98870032",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.19,
+      "color": "I",
+      "clarity": "VVS1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.750000",
+        "length": "3.730000",
+        "depth": "2.280000"
+      },
+      "depth_percentage": "60.800000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "32.500000",
+        "height": "32.500000"
+      },
+      "pavilion": {
+        "angle": "41.400000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 36,
+    "description": "Emerald 0.23ct I VS2 GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/edca6e05-6aca-48ce-8cdf-9acdd3cb5c33.jpg",
+    "price": {
+      "usd": "$228.51",
+      "eur": "205,66€"
+    },
+    "price_per_carat": {
+      "usd": "$993.52",
+      "eur": "894,17€"
+    },
+    "discount": "0%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "2446472754",
+      "lab": "GIA"
+    },
+    "stock_id": "SY03976241",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.23,
+      "color": "I",
+      "clarity": "VS2",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "2.930000",
+        "length": "4.150000",
+        "depth": "1.980000"
+      },
+      "depth_percentage": "67.600000",
+      "ratio": "1.42",
+      "crown": {
+        "angle": "0",
+        "height": "0"
+      },
+      "pavilion": {
+        "angle": "0",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 37,
+    "description": "Round 0.18ct F VS2 EX EX EX None",
+    "image": null,
+    "price": {
+      "usd": "$230.01",
+      "eur": "207,01€"
+    },
+    "price_per_carat": {
+      "usd": "$1,277.83",
+      "eur": "1.150,05€"
+    },
+    "discount": "1%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "7401065868",
+      "lab": "GIA"
+    },
+    "stock_id": "UY21593452",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.18,
+      "color": "F",
+      "clarity": "VS2",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.690000",
+        "length": "3.680000",
+        "depth": "2.200000"
+      },
+      "depth_percentage": "59.800000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "33.000000",
+        "height": "33.000000"
+      },
+      "pavilion": {
+        "angle": "40.800000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 38,
+    "description": "Round 0.18ct F VS2 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/663d1da6-4109-4109-8331-377735b91636.jpg",
+    "price": {
+      "usd": "$230.01",
+      "eur": "207,01€"
+    },
+    "price_per_carat": {
+      "usd": "$1,277.83",
+      "eur": "1.150,05€"
+    },
+    "discount": "1%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "5436154636",
+      "lab": "GIA"
+    },
+    "stock_id": "LI02856256",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.18,
+      "color": "F",
+      "clarity": "VS2",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.700000",
+        "length": "3.680000",
+        "depth": "2.270000"
+      },
+      "depth_percentage": "61.400000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "34.000000",
+        "height": "34.000000"
+      },
+      "pavilion": {
+        "angle": "41.600000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 39,
+    "description": "Round 0.21ct J VVS1 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/2d37d9bf-e4e2-48d7-a268-d5c83fb5fb10.jpg",
+    "price": {
+      "usd": "$230.54",
+      "eur": "207,49€"
+    },
+    "price_per_carat": {
+      "usd": "$1,097.81",
+      "eur": "988,03€"
+    },
+    "discount": "1%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "480143172",
+      "lab": "IGI"
+    },
+    "stock_id": "CL36006786",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.21,
+      "color": "J",
+      "clarity": "VVS1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.89",
+        "length": "3.86",
+        "depth": "2.30"
+      },
+      "depth_percentage": "59.200000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "32.900000",
+        "height": "13.000000"
+      },
+      "pavilion": {
+        "angle": "40.700000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": "POINTED",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 40,
+    "description": "Round 0.32ct L VS2 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/a33c9468-c34d-4363-8432-fa4d9371c6d3.jpg",
+    "price": {
+      "usd": "$230.72",
+      "eur": "207,65€"
+    },
+    "price_per_carat": {
+      "usd": "$721.00",
+      "eur": "648,90€"
+    },
+    "discount": "12%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "2407940854",
+      "lab": "GIA"
+    },
+    "stock_id": "JW20874232",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.32,
+      "color": "L",
+      "clarity": "VS2",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.400000",
+        "length": "4.370000",
+        "depth": "2.740000"
+      },
+      "depth_percentage": "62.500000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "35.000000",
+        "height": "35.000000"
+      },
+      "pavilion": {
+        "angle": "41.400000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 41,
+    "description": "Round 0.3ct L VVS2 EX EX EX None",
+    "image": null,
+    "price": {
+      "usd": "$231.13",
+      "eur": "208,02€"
+    },
+    "price_per_carat": {
+      "usd": "$770.43",
+      "eur": "693,39€"
+    },
+    "discount": "15%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6391560257",
+      "lab": "GIA"
+    },
+    "stock_id": "IY78536825",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.3,
+      "color": "L",
+      "clarity": "VVS2",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.420000",
+        "length": "4.400000",
+        "depth": "2.570000"
+      },
+      "depth_percentage": "58.400000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "32.000000",
+        "height": "32.000000"
+      },
+      "pavilion": {
+        "angle": "40.800000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 42,
+    "description": "Round 0.3ct L IF EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/6a35b69f-c6f7-442e-b2a2-4de0abf7a7bc.jpg",
+    "price": {
+      "usd": "$231.74",
+      "eur": "208,57€"
+    },
+    "price_per_carat": {
+      "usd": "$772.47",
+      "eur": "695,22€"
+    },
+    "discount": "19%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "400943665",
+      "lab": "IGI"
+    },
+    "stock_id": "IJ23037531",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.3,
+      "color": "L",
+      "clarity": "IF",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.35",
+        "length": "4.32",
+        "depth": "2.64"
+      },
+      "depth_percentage": "61.000000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "32.200000",
+        "height": "12.500000"
+      },
+      "pavilion": {
+        "angle": "41.800000",
+        "depth": "0"
+      },
+      "girdle": "MED to STK",
+      "culet": "POINTED",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 43,
+    "description": "Round 0.19ct E VS2 EX EX EX None",
+    "image": null,
+    "price": {
+      "usd": "$231.83",
+      "eur": "208,65€"
+    },
+    "price_per_carat": {
+      "usd": "$1,220.16",
+      "eur": "1.098,14€"
+    },
+    "discount": "1%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6405246269",
+      "lab": "GIA"
+    },
+    "stock_id": "JM74152691",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.19,
+      "color": "E",
+      "clarity": "VS2",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.720000",
+        "length": "3.690000",
+        "depth": "2.280000"
+      },
+      "depth_percentage": "61.600000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "33.500000",
+        "height": "33.500000"
+      },
+      "pavilion": {
+        "angle": "41.400000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 44,
+    "description": "Emerald 0.23ct I VVS2 GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/24d0500e-2866-4680-8d88-69b18057520d.jpg",
+    "price": {
+      "usd": "$232.22",
+      "eur": "209,00€"
+    },
+    "price_per_carat": {
+      "usd": "$1,009.65",
+      "eur": "908,69€"
+    },
+    "discount": "6%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6442627996",
+      "lab": "GIA"
+    },
+    "stock_id": "LA21931818",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.23,
+      "color": "I",
+      "clarity": "VVS2",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "2.96",
+        "length": "4.16",
+        "depth": "1.99"
+      },
+      "depth_percentage": "67.2",
+      "ratio": "1.41",
+      "crown": {
+        "angle": "0",
+        "height": "0"
+      },
+      "pavilion": {
+        "angle": "0",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 45,
+    "description": "Round 0.3ct K VVS1 VG EX VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/271cc8d4-eaee-45e7-9440-25ec1c64a2c4.jpg",
+    "price": {
+      "usd": "$232.97",
+      "eur": "209,67€"
+    },
+    "price_per_carat": {
+      "usd": "$776.57",
+      "eur": "698,91€"
+    },
+    "discount": "21%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "455026719",
+      "lab": "IGI"
+    },
+    "stock_id": "YT48813549",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.3,
+      "color": "K",
+      "clarity": "VVS1",
+      "cut": "VG",
+      "polish": "EX",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.44",
+        "length": "4.42",
+        "depth": "2.50"
+      },
+      "depth_percentage": "56.500000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "32.000000",
+        "height": "11.500000"
+      },
+      "pavilion": {
+        "angle": "40.100000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": "POINTED",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 46,
+    "description": "Emerald 0.23ct H SI1 GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/61f2a7a4-dda2-4a1d-bbd6-b83bb371ad45.jpg",
+    "price": {
+      "usd": "$233.48",
+      "eur": "210,13€"
+    },
+    "price_per_carat": {
+      "usd": "$1,015.13",
+      "eur": "913,62€"
+    },
+    "discount": "4%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "7423653912",
+      "lab": "GIA"
+    },
+    "stock_id": "DG37860161",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.23,
+      "color": "H",
+      "clarity": "SI1",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "2.960000",
+        "length": "4.140000",
+        "depth": "1.860000"
+      },
+      "depth_percentage": "62.600000",
+      "ratio": "1.40",
+      "crown": {
+        "angle": "0",
+        "height": "0"
+      },
+      "pavilion": {
+        "angle": "0",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 47,
+    "description": "Emerald 0.23ct H VVS1 VG EX VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/a1e5f747-9fcb-4b6c-9695-25d80880ac9c.jpg",
+    "price": {
+      "usd": "$233.55",
+      "eur": "210,20€"
+    },
+    "price_per_carat": {
+      "usd": "$1,015.43",
+      "eur": "913,89€"
+    },
+    "discount": "12%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "550259409",
+      "lab": "IGI"
+    },
+    "stock_id": "TK15305119",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.23,
+      "color": "H",
+      "clarity": "VVS1",
+      "cut": "VG",
+      "polish": "EX",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.04",
+        "length": "4.19",
+        "depth": "2.00"
+      },
+      "depth_percentage": "65.8",
+      "ratio": "1.38",
+      "crown": {
+        "angle": "28.7",
+        "height": "11"
+      },
+      "pavilion": {
+        "angle": "44.1",
+        "depth": "0"
+      },
+      "girdle": "MED to STK",
+      "culet": "LONG",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 48,
+    "description": "Round 0.31ct M VS1 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/5e3256cc-6cf0-4002-9849-9c551091465c.jpg",
+    "price": {
+      "usd": "$180.77",
+      "eur": "162,69€"
+    },
+    "price_per_carat": {
+      "usd": "$583.13",
+      "eur": "524,82€"
+    },
+    "discount": "19%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "1429087763",
+      "lab": "GIA"
+    },
+    "stock_id": "OR54163309",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.31,
+      "color": "M",
+      "clarity": "VS1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.350000",
+        "length": "4.320000",
+        "depth": "2.710000"
+      },
+      "depth_percentage": "62.500000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "36.000000",
+        "height": "36.000000"
+      },
+      "pavilion": {
+        "angle": "41.000000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 49,
+    "description": "Round 0.18ct L VVS2 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/d268304b-6b86-442a-b7f1-20d40c71b7e5.jpg",
+    "price": {
+      "usd": "$181.14",
+      "eur": "163,03€"
+    },
+    "price_per_carat": {
+      "usd": "$1,006.33",
+      "eur": "905,70€"
+    },
+    "discount": "9%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "7448080475",
+      "lab": "GIA"
+    },
+    "stock_id": "KS58752301",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.18,
+      "color": "L",
+      "clarity": "VVS2",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.720000",
+        "length": "3.700000",
+        "depth": "2.220000"
+      },
+      "depth_percentage": "59.800000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "32.500000",
+        "height": "32.500000"
+      },
+      "pavilion": {
+        "angle": "41.000000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 50,
+    "description": "Round 0.18ct H VS1 VG VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/3a2681a1-ca5c-4dfe-a1d4-596b9c50b7fd.jpg",
+    "price": {
+      "usd": "$182.58",
+      "eur": "164,32€"
+    },
+    "price_per_carat": {
+      "usd": "$1,014.33",
+      "eur": "912,90€"
+    },
+    "discount": "6%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "550259389",
+      "lab": "IGI"
+    },
+    "stock_id": "VY91872606",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.18,
+      "color": "H",
+      "clarity": "VS1",
+      "cut": "VG",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.64",
+        "length": "3.61",
+        "depth": "2.23"
+      },
+      "depth_percentage": "61.6",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "31.7",
+        "height": "12"
+      },
+      "pavilion": {
+        "angle": "42.2",
+        "depth": "0"
+      },
+      "girdle": "THN to STK",
+      "culet": "POINTED",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 51,
+    "description": "Round 0.3ct L SI2 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/1d2e7351-9d8c-474f-91f9-72e3dbce4e8f.jpg",
+    "price": {
+      "usd": "$187.93",
+      "eur": "169,14€"
+    },
+    "price_per_carat": {
+      "usd": "$626.43",
+      "eur": "563,79€"
+    },
+    "discount": "12%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "1435271210",
+      "lab": "GIA"
+    },
+    "stock_id": "ND44949624",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.3,
+      "color": "L",
+      "clarity": "SI2",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.360000",
+        "length": "4.350000",
+        "depth": "2.610000"
+      },
+      "depth_percentage": "59.900000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "34.000000",
+        "height": "34.000000"
+      },
+      "pavilion": {
+        "angle": "40.800000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 52,
+    "description": "Pear 0.24ct L VS2 GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/26a51094-3e58-4d92-b1a2-c04084f697af.jpg",
+    "price": {
+      "usd": "$188.03",
+      "eur": "169,23€"
+    },
+    "price_per_carat": {
+      "usd": "$783.46",
+      "eur": "705,11€"
+    },
+    "discount": "2%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "1415706945",
+      "lab": "GIA"
+    },
+    "stock_id": "NE08629247",
+    "parameters": {
+      "shape": "Pear",
+      "carats": 0.24,
+      "color": "L",
+      "clarity": "VS2",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.400000",
+        "length": "5.320000",
+        "depth": "2.200000"
+      },
+      "depth_percentage": "64.500000",
+      "ratio": "1.56",
+      "crown": {
+        "angle": "0",
+        "height": "0"
+      },
+      "pavilion": {
+        "angle": "0",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 53,
+    "description": "Round 0.24ct K VS1 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/7267ddfc-88ae-481a-a4cb-ceea87368658.jpg",
+    "price": {
+      "usd": "$193.04",
+      "eur": "173,74€"
+    },
+    "price_per_carat": {
+      "usd": "$804.33",
+      "eur": "723,90€"
+    },
+    "discount": "6%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "480143248",
+      "lab": "IGI"
+    },
+    "stock_id": "MX02264125",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.24,
+      "color": "K",
+      "clarity": "VS1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.06",
+        "length": "4.04",
+        "depth": "2.44"
+      },
+      "depth_percentage": "60.200000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "34.600000",
+        "height": "14.000000"
+      },
+      "pavilion": {
+        "angle": "40.800000",
+        "depth": "0"
+      },
+      "girdle": "THN to MED",
+      "culet": "POINTED",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 54,
+    "description": "Round 0.19ct I IF VG EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/95ae70a3-06bb-40e9-afd9-5c95c664a3e1.jpg",
+    "price": {
+      "usd": "$197.36",
+      "eur": "177,62€"
+    },
+    "price_per_carat": {
+      "usd": "$1,038.74",
+      "eur": "934,86€"
+    },
+    "discount": "4%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6441611840",
+      "lab": "GIA"
+    },
+    "stock_id": "CP79252937",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.19,
+      "color": "I",
+      "clarity": "IF",
+      "cut": "VG",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.81",
+        "length": "3.79",
+        "depth": "2.24"
+      },
+      "depth_percentage": "58.9",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "33",
+        "height": "33"
+      },
+      "pavilion": {
+        "angle": "40.6",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 55,
+    "description": "Pear 0.16ct D VVS2 GD VG GD None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/29b81daa-2d05-4897-a1ae-fa5cf512f38a.jpg",
+    "price": {
+      "usd": "$198.18",
+      "eur": "178,36€"
+    },
+    "price_per_carat": {
+      "usd": "$1,238.63",
+      "eur": "1.114,76€"
+    },
+    "discount": "5%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "2454284718",
+      "lab": "GIA"
+    },
+    "stock_id": "NM17291758",
+    "parameters": {
+      "shape": "Pear",
+      "carats": 0.16,
+      "color": "D",
+      "clarity": "VVS2",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "GD",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "2.99",
+        "length": "4.92",
+        "depth": "1.85"
+      },
+      "depth_percentage": "61.7",
+      "ratio": "1.65",
+      "crown": {
+        "angle": "0",
+        "height": "0"
+      },
+      "pavilion": {
+        "angle": "0",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 56,
+    "description": "Round 0.19ct J IF EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/a0bd3fa9-4364-4204-bb58-7d95d9b2ee5d.jpg",
+    "price": {
+      "usd": "$199.55",
+      "eur": "179,60€"
+    },
+    "price_per_carat": {
+      "usd": "$1,050.26",
+      "eur": "945,24€"
+    },
+    "discount": "3%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "2448804760",
+      "lab": "GIA"
+    },
+    "stock_id": "IR37256713",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.19,
+      "color": "J",
+      "clarity": "IF",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.78",
+        "length": "3.75",
+        "depth": "2.23"
+      },
+      "depth_percentage": "59.3",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "34.5",
+        "height": "34.5"
+      },
+      "pavilion": {
+        "angle": "40.8",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 57,
+    "description": "Round 0.18ct J VVS1 EX EX EX None",
+    "image": null,
+    "price": {
+      "usd": "$200.46",
+      "eur": "180,41€"
+    },
+    "price_per_carat": {
+      "usd": "$1,113.67",
+      "eur": "1.002,30€"
+    },
+    "discount": "0%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "467159487",
+      "lab": "IGI"
+    },
+    "stock_id": "RZ08509817",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.18,
+      "color": "J",
+      "clarity": "VVS1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.71",
+        "length": "3.70",
+        "depth": "2.17"
+      },
+      "depth_percentage": "58.400000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "32.500000",
+        "height": "12.500000"
+      },
+      "pavilion": {
+        "angle": "40.700000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": "POINTED",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 58,
+    "description": "Round 0.19ct I SI1 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/770d9f69-e546-4996-b443-d570c2061717.jpg",
+    "price": {
+      "usd": "$202.29",
+      "eur": "182,06€"
+    },
+    "price_per_carat": {
+      "usd": "$1,064.68",
+      "eur": "958,22€"
+    },
+    "discount": "13%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6381286427",
+      "lab": "GIA"
+    },
+    "stock_id": "QZ08802419",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.19,
+      "color": "I",
+      "clarity": "SI1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.700000",
+        "length": "3.690000",
+        "depth": "2.250000"
+      },
+      "depth_percentage": "60.900000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "33.000000",
+        "height": "33.000000"
+      },
+      "pavilion": {
+        "angle": "41.200000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 59,
+    "description": "Round 0.18ct H IF GD VG VG None",
+    "image": null,
+    "price": {
+      "usd": "$202.52",
+      "eur": "182,27€"
+    },
+    "price_per_carat": {
+      "usd": "$1,125.11",
+      "eur": "1.012,60€"
+    },
+    "discount": "8%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6402243774",
+      "lab": "GIA"
+    },
+    "stock_id": "QN09805002",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.18,
+      "color": "H",
+      "clarity": "IF",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.740000",
+        "length": "3.720000",
+        "depth": "2.150000"
+      },
+      "depth_percentage": "57.700000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "32.500000",
+        "height": "32.500000"
+      },
+      "pavilion": {
+        "angle": "39.800000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 60,
+    "description": "Emerald 0.23ct H VS2 VG VG EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/278458e0-b056-43ea-9b06-dafb2e109118.jpg",
+    "price": {
+      "usd": "$203.26",
+      "eur": "182,93€"
+    },
+    "price_per_carat": {
+      "usd": "$883.74",
+      "eur": "795,37€"
+    },
+    "discount": "13%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "480143290",
+      "lab": "IGI"
+    },
+    "stock_id": "AR62715996",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.23,
+      "color": "H",
+      "clarity": "VS2",
+      "cut": "VG",
+      "polish": "VG",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "2.88",
+        "length": "4.14",
+        "depth": "2.09"
+      },
+      "depth_percentage": "72.6",
+      "ratio": "1.44",
+      "crown": {
+        "angle": "36.5",
+        "height": "15"
+      },
+      "pavilion": {
+        "angle": "42.2",
+        "depth": "0"
+      },
+      "girdle": "THK to VTK",
+      "culet": "LONG",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 61,
+    "description": "Emerald 0.32ct L VVS2 GD VG VG None",
+    "image": null,
+    "price": {
+      "usd": "$203.72",
+      "eur": "183,35€"
+    },
+    "price_per_carat": {
+      "usd": "$636.63",
+      "eur": "572,96€"
+    },
+    "discount": "14%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "467159522",
+      "lab": "IGI"
+    },
+    "stock_id": "CW31870920",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.32,
+      "color": "L",
+      "clarity": "VVS2",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.43",
+        "length": "4.65",
+        "depth": "2.19"
+      },
+      "depth_percentage": "63.800000",
+      "ratio": "1.36",
+      "crown": {
+        "angle": "20.200000",
+        "height": "10.000000"
+      },
+      "pavilion": {
+        "angle": "42.800000",
+        "depth": "0"
+      },
+      "girdle": "MED to STK",
+      "culet": "LONG",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 62,
+    "description": "Emerald 0.3ct J VS2 GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/d2392f0b-25fb-40b1-980b-e250e325ad23.jpg",
+    "price": {
+      "usd": "$205.21",
+      "eur": "184,69€"
+    },
+    "price_per_carat": {
+      "usd": "$684.03",
+      "eur": "615,63€"
+    },
+    "discount": "15%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "480143137",
+      "lab": "IGI"
+    },
+    "stock_id": "HK22971249",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.3,
+      "color": "J",
+      "clarity": "VS2",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.20",
+        "length": "4.67",
+        "depth": "2.12"
+      },
+      "depth_percentage": "66.300000",
+      "ratio": "1.46",
+      "crown": {
+        "angle": "21.600000",
+        "height": "11.500000"
+      },
+      "pavilion": {
+        "angle": "43.600000",
+        "depth": "0"
+      },
+      "girdle": "MED to STK",
+      "culet": "LONG",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 63,
+    "description": "Pear 0.24ct I VS2 GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/fb4ae46d-4db0-4d78-bda1-12adc58acca5.jpg",
+    "price": {
+      "usd": "$205.80",
+      "eur": "185,22€"
+    },
+    "price_per_carat": {
+      "usd": "$857.50",
+      "eur": "771,75€"
+    },
+    "discount": "7%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "480143245",
+      "lab": "IGI"
+    },
+    "stock_id": "FJ44496269",
+    "parameters": {
+      "shape": "Pear",
+      "carats": 0.24,
+      "color": "I",
+      "clarity": "VS2",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.51",
+        "length": "5.66",
+        "depth": "2.11"
+      },
+      "depth_percentage": "60.100000",
+      "ratio": "1.61",
+      "crown": {
+        "angle": "30.300000",
+        "height": "12.500000"
+      },
+      "pavilion": {
+        "angle": "41.000000",
+        "depth": "0"
+      },
+      "girdle": "VTN to THK",
+      "culet": "POINTED",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 64,
+    "description": "Round 0.18ct I IF EX EX EX None",
+    "image": null,
+    "price": {
+      "usd": "$206.69",
+      "eur": "186,02€"
+    },
+    "price_per_carat": {
+      "usd": "$1,148.28",
+      "eur": "1.033,45€"
+    },
+    "discount": "1%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "480143445",
+      "lab": "IGI"
+    },
+    "stock_id": "YD58544604",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.18,
+      "color": "I",
+      "clarity": "IF",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.70",
+        "length": "3.67",
+        "depth": "2.19"
+      },
+      "depth_percentage": "59.400000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "33.400000",
+        "height": "13.000000"
+      },
+      "pavilion": {
+        "angle": "40.800000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": "POINTED",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 65,
+    "description": "Round 0.3ct L VS1 EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/d07d3968-4025-4492-bf5a-59f1b003838a.jpg",
+    "price": {
+      "usd": "$206.75",
+      "eur": "186,08€"
+    },
+    "price_per_carat": {
+      "usd": "$689.17",
+      "eur": "620,25€"
+    },
+    "discount": "18%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "450029641",
+      "lab": "IGI"
+    },
+    "stock_id": "FR76562981",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.3,
+      "color": "L",
+      "clarity": "VS1",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.30",
+        "length": "4.25",
+        "depth": "2.68"
+      },
+      "depth_percentage": "62.900000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "36.600000",
+        "height": "16.000000"
+      },
+      "pavilion": {
+        "angle": "41.000000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": "POINTED",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 66,
+    "description": "Round 0.3ct K SI1 GD EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/0f74b85a-ca0e-47fc-b919-dd39a6aa8b17.jpg",
+    "price": {
+      "usd": "$206.75",
+      "eur": "186,08€"
+    },
+    "price_per_carat": {
+      "usd": "$689.17",
+      "eur": "620,25€"
+    },
+    "discount": "18%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "1428653483",
+      "lab": "GIA"
+    },
+    "stock_id": "JK41910497",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.3,
+      "color": "K",
+      "clarity": "SI1",
+      "cut": "GD",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.510000",
+        "length": "4.480000",
+        "depth": "2.500000"
+      },
+      "depth_percentage": "55.700000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "30.500000",
+        "height": "30.500000"
+      },
+      "pavilion": {
+        "angle": "41.000000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 67,
+    "description": "Emerald 0.21ct I VS1 GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/313b5910-c51e-4978-a775-d74e15798fb8.jpg",
+    "price": {
+      "usd": "$207.34",
+      "eur": "186,61€"
+    },
+    "price_per_carat": {
+      "usd": "$987.33",
+      "eur": "888,60€"
+    },
+    "discount": "8%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6441756111",
+      "lab": "GIA"
+    },
+    "stock_id": "KI99863097",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.21,
+      "color": "I",
+      "clarity": "VS1",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "2.94",
+        "length": "4.12",
+        "depth": "1.83"
+      },
+      "depth_percentage": "62.2",
+      "ratio": "1.40",
+      "crown": {
+        "angle": "0",
+        "height": "0"
+      },
+      "pavilion": {
+        "angle": "0",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 68,
+    "description": "Round 0.18ct H VS2 VG EX VG None",
+    "image": null,
+    "price": {
+      "usd": "$207.92",
+      "eur": "187,13€"
+    },
+    "price_per_carat": {
+      "usd": "$1,155.11",
+      "eur": "1.039,60€"
+    },
+    "discount": "1%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "5396637529",
+      "lab": "GIA"
+    },
+    "stock_id": "CI16651062",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.18,
+      "color": "H",
+      "clarity": "VS2",
+      "cut": "VG",
+      "polish": "EX",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.670000",
+        "length": "3.660000",
+        "depth": "2.150000"
+      },
+      "depth_percentage": "58.700000",
+      "ratio": "1.00",
+      "crown": {
+        "angle": "32.500000",
+        "height": "32.500000"
+      },
+      "pavilion": {
+        "angle": "40.600000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 69,
+    "description": "Emerald 0.28ct K SI1 GD VG VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/5033819e-eb37-4ce4-b9af-4f7c55e71c6e.jpg",
+    "price": {
+      "usd": "$208.24",
+      "eur": "187,42€"
+    },
+    "price_per_carat": {
+      "usd": "$743.71",
+      "eur": "669,34€"
+    },
+    "discount": "6%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "1423798989",
+      "lab": "GIA"
+    },
+    "stock_id": "WA32172388",
+    "parameters": {
+      "shape": "Emerald",
+      "carats": 0.28,
+      "color": "K",
+      "clarity": "SI1",
+      "cut": "GD",
+      "polish": "VG",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "3.180000",
+        "length": "4.480000",
+        "depth": "2.070000"
+      },
+      "depth_percentage": "65.000000",
+      "ratio": "1.41",
+      "crown": {
+        "angle": "0",
+        "height": "0"
+      },
+      "pavilion": {
+        "angle": "0",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 70,
+    "description": "Round 0.3ct M IF EX EX EX None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/cfcab15f-d280-4734-b52a-f1f5a7b8e049.jpg",
+    "price": {
+      "usd": "$208.91",
+      "eur": "188,02€"
+    },
+    "price_per_carat": {
+      "usd": "$696.37",
+      "eur": "626,73€"
+    },
+    "discount": "20%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "450029639",
+      "lab": "IGI"
+    },
+    "stock_id": "FU57252114",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.3,
+      "color": "M",
+      "clarity": "IF",
+      "cut": "EX",
+      "polish": "EX",
+      "symmetry": "EX",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.39",
+        "length": "4.35",
+        "depth": "2.63"
+      },
+      "depth_percentage": "60.300000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "32.300000",
+        "height": "13.000000"
+      },
+      "pavilion": {
+        "angle": "41.400000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": "POINTED",
+      "canada_mark": "N/A"
+    }
+  },
+  {
+    "id": 71,
+    "description": "Round 0.3ct I SI2 GD EX VG None",
+    "image": "https://nivoda-images.s3.eu-west-2.amazonaws.com/e338f9a6-1ce2-4983-a833-6d466fd0d0b5.jpg",
+    "price": {
+      "usd": "$208.91",
+      "eur": "188,02€"
+    },
+    "price_per_carat": {
+      "usd": "$696.37",
+      "eur": "626,73€"
+    },
+    "discount": "20%",
+    "supplier": "Nivoda Limited",
+    "certificate": {
+      "number": "6415079881",
+      "lab": "GIA"
+    },
+    "stock_id": "LC89500040",
+    "parameters": {
+      "shape": "Round",
+      "carats": 0.3,
+      "color": "I",
+      "clarity": "SI2",
+      "cut": "GD",
+      "polish": "EX",
+      "symmetry": "VG",
+      "fluorescence": "None",
+      "measurements": {
+        "width": "4.150000",
+        "length": "4.120000",
+        "depth": "2.710000"
+      },
+      "depth_percentage": "65.600000",
+      "ratio": "0.99",
+      "crown": {
+        "angle": "39.500000",
+        "height": "39.500000"
+      },
+      "pavilion": {
+        "angle": "40.000000",
+        "depth": "0"
+      },
+      "girdle": null,
+      "culet": null,
+      "canada_mark": "N/A"
+    }
+  }
+]
